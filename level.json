@@ -1,0 +1,12 @@
+[
+    {
+        "chapter": 1,
+        "chapter_id":1191423210953125969,
+        "example_1": "./images/chapter_1/task_example_1_1.png",
+        "cevap_1": "./images/chapter_1/task_cevap_1_1.png",
+        "example_2": "./images/chapter_1/task_example_1_2.png",
+        "cevap_2": "./images/chapter_1/task_cevap_1_2.png",
+        "example_3": "./images/chapter_1/task_example_1_3.png",
+        "cevap_3": "./images/chapter_1/task_cevap_1_3.png"
+    }
+]
